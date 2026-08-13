@@ -7,9 +7,13 @@ title: Research Career
 
 
 # Education
-2004.08 - 2009.12: Ph.D. in Industrial and Systems Engineering, Auburn University, A.L., U.S.A
-2002.01 - 2004.08: M.S. in Industrial and Systems Engineering, Auburn University, A.L., U.S.A
-1998.02: B.S. in Industrial Engineering, Pukyong National University, Busan, Republic of  Korea
+<body>
+  <ul>
+    <li>2004.08 - 2009.12: Ph.D. in Industrial and Systems Engineering, Auburn University, A.L., U.S.A</li>
+    <li>2002.01 - 2004.08: M.S. in Industrial and Systems Engineering, Auburn University, A.L., U.S.A</li>
+    <li>1998.02: B.S. in Industrial Engineering, Pukyong National University, Busan, Republic of Korea</li>
+  </ul>
+</body>
 
 # Experience
 2022.09 - Now: Professor, Department of Industrial & Management Engineering, Incheon National University
