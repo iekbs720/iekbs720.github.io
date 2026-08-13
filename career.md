@@ -1,10 +1,9 @@
 ---
 layout: page
-title: Research Career
+title: Academic Career
 ---
 
 <br/>
-
 
 # Education
 <body>
