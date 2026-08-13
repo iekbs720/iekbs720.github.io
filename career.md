@@ -37,9 +37,10 @@ title: Research Career
     <li>The Best Paper Award, 11th International Conference on Innovative Computing and Information Control (ICICIC2016), Harbin, China, 2016</li>
     <li>The Best Teaching Award, Incheon National University, 2015</li>
     <li>The Best Young Faculty Award, Spring Research Conference on Systems Engineering and Management Science (SRC-SEMS2014), Hong Kong, 2014</li>
+    <li>Best Paper Award, Korean Society of Supply Chain Management, 2010</li>
+    <li>Alpha Pi Mu, America Institute of Industrial Engineering, 2006</li>
   </ul>
 </body>
 
 
-Best Paper Award, Korean Society of Supply Chain Management, 2010
-Alpha Pi Mu, America Institute of Industrial Engineering, 2006
+
