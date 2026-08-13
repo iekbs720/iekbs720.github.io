@@ -1,7 +1,7 @@
 ---
 layout: page
-title: The Best Cat
-subtitle: Artificial Intelligence Research Laboratory, ETRI
+title: Prof. Byung Soo Kim
+subtitle: Industrial & Management Engineering, Incheon National University 
 cover-img: /assets/img/IP&SCM main Fig.jpg
 ---
 
@@ -9,14 +9,14 @@ cover-img: /assets/img/IP&SCM main Fig.jpg
 
 ## About me
 
-**Taesik** is a **Cat** in the house of Son and Kim.
+**Byung Soo** is a **Professor** of Industrial & Management Engineering, Incheon National University 
 
 Hello world! &#128525;
 
 ## Contact
 
 ```
-Affiliation: house of Son and Kim.
-Office: ETRI 7-563, 218, Gajeong-ro, Yuseong-gu, Daejeon, Republic of Korea
-Email: shsonkorea[at]etri.re.kr or shsongist[at]gmail.com
+Affiliation: Department of Industrial & Management Engineering, Incheon National University, Republic of Korea
+Office: Engineering Bldg. 8A, 467, (Songdo-dong) 119 Academy-ro Yeonsu-gu, Incheon Republic of Korea
+Email: bskim[at]inu.ac.kr or iekbs72[at]gmail.com
 ```
