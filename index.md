@@ -2,7 +2,7 @@
 layout: page
 title: Prof. Byung Soo Kim
 subtitle: Industrial & Management Engineering, Incheon National University 
-cover-img: /assets/img/IP&SCM main Fig.jpg
+cover-img: /assets/img/IP&SCM main Fig_wide.jpg
 ---
 
 <br/>
