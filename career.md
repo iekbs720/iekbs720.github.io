@@ -8,9 +8,9 @@ title: Academic Career
 # Education
 <body>
   <ul>
-    <li>2004.08 - 2009.12: Ph.D. in <a href="http://eng.auburn.edu/insy/">Industrial and Systems Engineering</a>, <a href="http://auburn.edu">Auburn University, A.L., U.S.A</a></li>
-    <li>2002.01 - 2004.08: M.S. in <a href="http://eng.auburn.edu/insy/">Industrial and Systems Engineering</a>, <a href="http://auburn.edu">Auburn University, A.L., U.S.A</a></li>
-    <li>1998.02 - B.S. in <a href="http://sme.pknu.ac.kr/sme/">Industrial Engineering</a>, <a href="https://www.pknu.ac.kr">Pukyong National University, Busan, Republic of Korea</a></li>
+    <li>2004.08 - 2009.12: Ph.D. in <a href="http://eng.auburn.edu/insy">Industrial and Systems Engineering</a>, <a href="http://auburn.edu">Auburn University</a>, A.L., U.S.A</li>
+    <li>2002.01 - 2004.08: M.S. in <a href="http://eng.auburn.edu/insy">Industrial and Systems Engineering</a>, <a href="http://auburn.edu">Auburn University</a>, A.L., U.S.A</li>
+    <li>1998.02 - B.S. in <a href="http://sme.pknu.ac.kr/sme">Industrial Engineering</a>, <a href="https://www.pknu.ac.kr">Pukyong National University</a>, Busan, Republic of Korea</li>
   </ul>
 </body>
 
